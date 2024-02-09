@@ -9,20 +9,21 @@ This project focuses on creating an end-to-end data engineering pipeline for ext
 * Connects to the Spotify API to extract relevant data.
 * Deploys code on AWS Lambda for efficient and scalable data extraction.
 * Implements triggers for automatic data extraction at * specified intervals
-*
-* **2. Data Transformation**
+
+**2. Data Transformation**
 * Develops transformation functions to process and structure the extracted data.
 * Builds an automated trigger for seamless execution of transformation processes.
 *
-* **3. Data Storage on S3**
+**3. Data Storage on S3**
 * Stores processed data on AWS S3, ensuring proper organization and accessibility.
 * Utilizes S3 buckets for efficient data storage.
-*
-* **4. Loading Data to Snowflake**
+
+**4. Loading Data to Snowflake**
 * Creates a Snowflake storage integration for seamless interaction with S3.
 * Establishes stages and file formats in Snowflake for structured data loading.
 * Implements the Snowpipe feature to enable automatic data ingestion into Snowflake.
 * Facilitates analytics by providing a centralized data warehouse in Snowflake.
+  
 ## Project Workflow
 **1. Spotify Data Extraction:**
 
