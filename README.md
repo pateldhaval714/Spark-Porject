@@ -13,7 +13,7 @@ This project focuses on creating an end-to-end data engineering pipeline for ext
 **2. Data Transformation**
 * Develops transformation functions to process and structure the extracted data.
 * Builds an automated trigger for seamless execution of transformation processes.
-*
+  
 **3. Data Storage on S3**
 * Stores processed data on AWS S3, ensuring proper organization and accessibility.
 * Utilizes S3 buckets for efficient data storage.
