@@ -25,7 +25,7 @@ This project focuses on creating an end-to-end data engineering pipeline for ext
 * Facilitates analytics by providing a centralized data warehouse in Snowflake.
   
 ## Project Workflow
-**1. Spotify Data Extraction:**
+## 1. Spotify Data Extraction:
 
 * Integration with Spotify API.
 * Deployment of extraction code on AWS Lambda.
