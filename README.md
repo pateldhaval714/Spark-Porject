@@ -57,4 +57,5 @@ This project focuses on creating an end-to-end data engineering pipeline for ext
 6. Set up Snowflake storage integration, stages, and file formats.
 7. Implement Snowpipe for automatic data ingestion.
 \
+
 By following these steps, the project can be executed to establish a comprehensive Spotify data pipeline for end-to-end data engineering and analytics.
